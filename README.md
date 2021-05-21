@@ -1,4 +1,4 @@
-# pick-place_demo
+# pick&place_demo
 
 # HOW TO USE: 
 1. This repo does not contain the source code. Clone, build and source AMBF: https://github.com/WPI-AIM/ambf (Author: Adnan Munawar)
