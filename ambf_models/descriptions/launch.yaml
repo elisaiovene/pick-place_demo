@@ -4,8 +4,8 @@ world config: ./world/world_stereo.yaml
 color config: ./color/colors.yaml
 input devices config: ./input_devices/input_devices.yaml
 multibody configs:
-  - "./multi-bodies/robots/psm_mod.yaml" #0
-  - "./multi-bodies/robots/psm2_mod.yaml" #1
+  - "./multi-bodies/robots/psm.yaml" #0
+  - "./multi-bodies/robots/psm2.yaml" #1
   - "./multi-bodies/robots/sensors_actuators_psm1.yaml" #2
   - "./multi-bodies/robots/sensors_actuators_psm2.yaml" #3
   - "./multi-bodies/puzzles/pick&place.yaml" #4
