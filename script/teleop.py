@@ -31,18 +31,16 @@ time.sleep(1.0)
 b2 = c.get_obj_handle('psm2/baselink')
 
 def mouse(msg):
-	vel.linear.x = msg.linear.x
-	vel.linear.y= msg.linear.y
+	
 
 def mouse_scroll(data):
-	scroll.data = data.data
+	
 	
 
 def mouse_grip(data1):
-	grip.data = data1.data
-
+	
 def mouse_change(data2):
-	change.data = data2.data
+	
 	
 	
 
